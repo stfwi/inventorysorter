@@ -1,3 +1,6 @@
+
+# THIS REPOSITORY IS A FORK FOR PRs, clone the original one (by cpw).
+
 # Inventory Sorter
 
 Simple inventory sorting for Minecraft
